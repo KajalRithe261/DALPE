@@ -1,3 +1,6 @@
 This is a new text doc
+<<<<<<< HEAD
 This is from Main branch.
+=======
 This is a new line from test document.
+>>>>>>> UAT
